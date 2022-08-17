@@ -22,8 +22,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Ben. <br />I am a Software Developer, Father and licensed
-          Avatar Master. <br />
+          Hello, I'm Ben. <br />I am an aspiring software developer, father of
+          three beautiful beings and a licensed Avatar master with Star's Edge
+          International. <br />
           You can contact me at{' '}
           <a href="https://www.linkedin.com/in/ben-teiko-marrett/">LinkedIn</a>
         </p>
