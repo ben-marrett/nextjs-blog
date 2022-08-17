@@ -27,6 +27,8 @@ export default function Home({ allPostsData }) {
           International. <br />
           You can contact me at{' '}
           <a href="https://www.linkedin.com/in/ben-teiko-marrett/">LinkedIn</a>
+          Learn about Avatar and Star's Edge at{' '}
+          <a href="www.theavatarcourse.com">The Avatar Course</a>
         </p>
         <p>
           This is a sample website - I will be building one like this soon with{' '}
