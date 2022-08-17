@@ -1,4 +1,10 @@
+## Next.js Blog
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Updates
+18/08/2022:
+I have completed the bulk of my first Next.js app and the next step is to deploy to vercel, explore other hosting options, and then engage in further learning on Search Engine Optimization.
 
 10/08/2022: 
 I went through the initial [Learn Next.js](https://nextjs.org/learn) tutorials to get to this point, covering from JavaScript -> React -> Next.js, how Next.js works, navigating between pages, and now moving into pre-rendering and data fetching, dynamic routes, API routes, and deployment.
